@@ -2,6 +2,8 @@
 
 Yookyung Youn · Korea University
 
+[Project page and results](https://spatzlyn.github.io/research/hiring-fairness/)
+
 If a scoring model reveals less about a person's gender or age, does it also produce smaller disparities when those scores are used to select candidates? This project examines how far a finding at one stage of a fairness audit carries over to the decisions that follow.
 
 ## Study design
